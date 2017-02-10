@@ -47,6 +47,7 @@
 		543F74FC1E4440DE002E4C97 /* View Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				54BCA6AA1E4D78B00090EDC4 /* PhotoDetailsViewController.swift */,
 				543F74FA1E4440B2002E4C97 /* PhotoViewController.swift */,
 			);
 			name = "View Controllers";
@@ -76,7 +77,6 @@
 				543F74FC1E4440DE002E4C97 /* View Controllers */,
 				548483D41E443C5400AB964F /* AppDelegate.swift */,
 				548483D81E443C5400AB964F /* Main.storyboard */,
-				54BCA6AA1E4D78B00090EDC4 /* PhotoDetailsViewController.swift */,
 				54BCA6A81E4D776A0090EDC4 /* PhotoViewCell.swift */,
 				548483DB1E443C5400AB964F /* Assets.xcassets */,
 				548483DD1E443C5400AB964F /* LaunchScreen.storyboard */,
